@@ -17,5 +17,7 @@ public class GitTest {
         System.out.println("hello github third!!!");
 
         System.out.println("hot-fix first!!!");
+
+        System.out.println("push first!!!");
     }
 }
